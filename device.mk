@@ -80,7 +80,8 @@ PRODUCT_PACKAGES += \
 
 # Shims
 PRODUCT_PACKAGES += \
-    libcamera_sdm660_shim
+    libcamera_sdm660_shim \
+    libmiwatermark_shim
 
 # USB
 PRODUCT_PACKAGES += \
